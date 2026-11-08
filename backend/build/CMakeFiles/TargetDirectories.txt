@@ -1,0 +1,3 @@
+/home/fahrettinpasha/hoi3-web/backend/build/CMakeFiles/hoi3_backend.dir
+/home/fahrettinpasha/hoi3-web/backend/build/CMakeFiles/edit_cache.dir
+/home/fahrettinpasha/hoi3-web/backend/build/CMakeFiles/rebuild_cache.dir

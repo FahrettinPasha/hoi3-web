@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/fahrettinpasha/hoi3-web/backend/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
